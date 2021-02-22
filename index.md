@@ -27,6 +27,10 @@ I worked in medical device R&D for three years and successfully launched a cardi
 - Deployed on Heroku with postgres db and secret keys for OAuth, Stripe, JWT
 
 ## Deaf intermarriage Python Simulations
-[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
+[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
 [https://github.com/derekbraun/homogamy](https://github.com/derekbraun/homogamy)
 - Analysis of genetic frequencies in deaf intermarraige populations over many generations, simulated with Python and simuPop package
+
+##FIRST Robotics Programming
+- I programmed FIRST Robotics Competition robots with LabVIEW in high school and went to world championships
+- [Home County Newspaper](https://www.gwinnettdailypost.com/archive/tech-team-from-suwanee-high-school-takes-on-the-world-this-weekend/article_592eb681-aca8-59ee-b78f-0b13ec62cbbb.html)
