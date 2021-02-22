@@ -25,7 +25,8 @@ I worked in medical device R&D for three years and successfully launched a cardi
 - Deployed on Heroku with postgres db and secret keys for OAuth, Stripe, JWT
 
 ## Deaf intermarriage Python Simulations
-| [PLOS One Peer Reviewed and Published Journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609) | [https://github.com/derekbraun/homogamy](https://github.com/derekbraun/homogamy) |
+- [PLOS One Peer Reviewed and Published Journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
+- [https://github.com/derekbraun/homogamy](https://github.com/derekbraun/homogamy)
 - Analysis of genetic frequencies in deaf intermarraige populations over many generations, simulated with Python and simuPop package
 
 ## FIRST Robotics Programming
