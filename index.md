@@ -6,9 +6,7 @@ I worked in medical device R&D for three years and successfully launched a cardi
 # Software Development
 ## GWG - eCommerce Web App
 
-[https://grizzly-winter-gear.herokuapp.com/](https://grizzly-winter-gear.herokuapp.com/)
-
-[https://github.com/grizzly-winter-gear/GWG](https://github.com/grizzly-winter-gear/GWG)
+| [https://grizzly-winter-gear.herokuapp.com/](https://grizzly-winter-gear.herokuapp.com/) | [https://github.com/grizzly-winter-gear/GWG](https://github.com/grizzly-winter-gear/GWG) |
 
 ### NERP Stack (Node.js, Express.js, React.js, PostgreSQL)
 ### Front End
