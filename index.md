@@ -11,7 +11,9 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 <details>
   <summary>
-    NERP Stack (Node.js, Express.js, React.js, PostgreSQL) 
+    
+    ###NERP Stack (Node.js, Express.js, React.js, PostgreSQL) 
+    
   </summary>
   
 ### Front End
@@ -29,6 +31,7 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 ### Deployment
 - Deployed on Heroku with postgres db and secret keys for OAuth, Stripe, JWT
 </details>
+
 ## Python Simulations for Research on Deaf intermarriage 
 - [PLOS One Peer Reviewed and Published Journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
 - [https://github.com/derekbraun/homogamy](https://github.com/derekbraun/homogamy)
