@@ -8,7 +8,11 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 | [https://grizzly-winter-gear.herokuapp.com/](https://grizzly-winter-gear.herokuapp.com/) | [https://github.com/grizzly-winter-gear/GWG](https://github.com/grizzly-winter-gear/GWG) |
 
-### NERP Stack (Node.js, Express.js, React.js, PostgreSQL)
+
+<details>
+  <summary>
+    NERP Stack (Node.js, Express.js, React.js, PostgreSQL) 
+  </summary>
 ### Front End
 - Front end utilizes React and Material UI for interface, Redux for store management, React Router for page management
 - User authorization is persisted with local storage use of JWT Token
@@ -23,7 +27,7 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ### Deployment
 - Deployed on Heroku with postgres db and secret keys for OAuth, Stripe, JWT
-
+</details>
 ## Python Simulations for Research on Deaf intermarriage 
 - [PLOS One Peer Reviewed and Published Journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
 - [https://github.com/derekbraun/homogamy](https://github.com/derekbraun/homogamy)
