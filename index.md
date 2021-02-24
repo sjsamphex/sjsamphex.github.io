@@ -13,6 +13,7 @@ I worked in medical device R&D for three years, and I successfully launched a ca
   <summary>
     NERP Stack (Node.js, Express.js, React.js, PostgreSQL) 
   </summary>
+  
 ### Front End
 - Front end utilizes React and Material UI for interface, Redux for store management, React Router for page management
 - User authorization is persisted with local storage use of JWT Token
