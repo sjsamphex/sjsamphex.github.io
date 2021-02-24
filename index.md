@@ -11,8 +11,7 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 <details>
   <summary>
-    
-    ###NERP Stack (Node.js, Express.js, React.js, PostgreSQL) 
+    NERP Stack (Node.js, Express.js, React.js, PostgreSQL) 
     
   </summary>
   
