@@ -1,5 +1,5 @@
 # Frontend Software Development / Medical Device R&D
-I worked in medical device R&D for three years and successfully launched a cardiovascular implant that saves lives. However, the medtech industry was falling behind in adopting new technologies so I decided to take it upon myself to pivot and take up a tech stack so that I may take part in modernizing healthcare and medical devices from the tech side.
+I worked in medical device R&D for three years, and I successfully launched a cardiovascular implant that saves lives. However, the medtech industry was falling behind in adopting new technologies so I decided to take it upon myself to pivot and take up a tech stack so that I may take part in modernizing healthcare and medical devices from the tech side.
 
 ### JavaScript NERP stack: Node, Express, React, PostgresSQL
 
@@ -24,10 +24,10 @@ I worked in medical device R&D for three years and successfully launched a cardi
 ### Deployment
 - Deployed on Heroku with postgres db and secret keys for OAuth, Stripe, JWT
 
-## Deaf intermarriage Python Simulations
+## Python Simulations for Research on Deaf intermarriage 
 - [PLOS One Peer Reviewed and Published Journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
 - [https://github.com/derekbraun/homogamy](https://github.com/derekbraun/homogamy)
-- Analysis of genetic frequencies in deaf intermarraige populations over many generations, simulated with Python and simuPop package
+- Genetic simulations with Python and simuPOP package for Analysis of genetic frequencies in deaf intermarraige populations over many generations
 
 ## FIRST Robotics Programming
 - I programmed FIRST Robotics Competition robots with LabVIEW in high school and went to world championships
