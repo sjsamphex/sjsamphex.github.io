@@ -27,6 +27,7 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 - Deployed on Heroku with postgres db and secret keys for OAuth, Stripe, JWT
 
 ##Is It Recalled? - 5 day API hackathon project
+
 | [https://is-it-recalled.herokuapp.com/](https://is-it-recalled.herokuapp.com/) | [https://github.com/sjsamphex/IsItRecalled](https://github.com/sjsamphex/IsItRecalled) |
 
 ###NERP Stack
