@@ -26,6 +26,14 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 ### Deployment
 - Deployed on Heroku with postgres db and secret keys for OAuth, Stripe, JWT
 
+##Is It Recalled? - 5 day API hackathon project
+| [https://is-it-recalled.herokuapp.com/](https://is-it-recalled.herokuapp.com/) | [https://github.com/sjsamphex/IsItRecalled](https://github.com/sjsamphex/IsItRecalled) |
+
+###NERP Stack
+
+###API Connections
+- In 5 days, hooked up a barcode scanner, food product lookup API, and openFDA query to collect registered recalls for food products the user can scan personally on desktop and mobile.
+- Users can see previously scanned products and whether they were recalled
 
 ## Python Simulations for Research on Deaf intermarriage 
 - [PLOS One Peer Reviewed and Published Journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
