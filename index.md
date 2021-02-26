@@ -53,4 +53,5 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 - I programmed FIRST Robotics Competition robots with LabVIEW in high school and went to world championships
 - [Home County Newspaper](https://www.gwinnettdailypost.com/archive/tech-team-from-suwanee-high-school-takes-on-the-world-this-weekend/article_592eb681-aca8-59ee-b78f-0b13ec62cbbb.html)
+
   [/expand]
