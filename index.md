@@ -43,13 +43,9 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## Python Simulations for Research on Deaf intermarriage
 
-[expand]
-
 - [PLOS One Peer Reviewed and Published Journal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241609)
 - [https://github.com/derekbraun/homogamy](https://github.com/derekbraun/homogamy)
 - Genetic simulations with Python and simuPOP package for Analysis of genetic frequencies in deaf intermarraige populations over many generations
-
-[/expand]
 
 ## FIRST Robotics Programming
 
@@ -57,5 +53,4 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 - I programmed FIRST Robotics Competition robots with LabVIEW in high school and went to world championships
 - [Home County Newspaper](https://www.gwinnettdailypost.com/archive/tech-team-from-suwanee-high-school-takes-on-the-world-this-weekend/article_592eb681-aca8-59ee-b78f-0b13ec62cbbb.html)
-
-[/expand]
+  [/expand]
