@@ -6,11 +6,31 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 # Software Development
 
-## GWG - eCommerce Web App
+## Manhattan Trail - Manhattan Food themed Web App of Oregon Trail
+
+[https://github.com/LuDeRoSa/ManhattanTrail](https://github.com/LuDeRoSa/ManhattanTrail)
+
+### Front End
+
+- Google Maps API to follow Player's journey through Manhattan
+- React/Material UI, Redux store management, React Router for page management
+- User authorization is persisted with local storage use of JWT Token
+- User can log in via GitHub OAuth2 API
+- Game is persistent for a user across browsers, phones
+
+### Back End
+
+- Node/Express for RESTful API, Sequelize for ORM with PostgreSQL database
+- Multirelational database management designed to scale with users, routes, game state, and multiple minigames
+- User Authorization via JWT in header authorization tokens and bcrypt for passwords
+
+### Deployment
+
+- Deployed on Heroku with postgres db and secret keys for OAuth, JWT
+
+## eCommerce Web App - Winter Gear
 
 | [https://grizzly-winter-gear.herokuapp.com/](https://grizzly-winter-gear.herokuapp.com/) | [https://github.com/grizzly-winter-gear/GWG](https://github.com/grizzly-winter-gear/GWG) |
-
-### NERP Stack (Node.js, Express.js, React.js, PostgreSQL)
 
 ### Front End
 
