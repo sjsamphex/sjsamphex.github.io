@@ -8,7 +8,8 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## Manhattan Trail - Manhattan Food themed Web App of Oregon Trail
 
-[https://github.com/LuDeRoSa/ManhattanTrail](https://github.com/LuDeRoSa/ManhattanTrail)
+- [https://github.com/LuDeRoSa/ManhattanTrail](https://github.com/LuDeRoSa/ManhattanTrail)
+- [https://luderosa.herokuapp.com/home](https://luderosa.herokuapp.com/home)
 
 ### Front End
 
@@ -30,7 +31,8 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## eCommerce Web App - Winter Gear
 
-| [https://grizzly-winter-gear.herokuapp.com/](https://grizzly-winter-gear.herokuapp.com/) | [https://github.com/grizzly-winter-gear/GWG](https://github.com/grizzly-winter-gear/GWG) |
+- [https://grizzly-winter-gear.herokuapp.com/](https://grizzly-winter-gear.herokuapp.com/)
+- [https://github.com/grizzly-winter-gear/GWG](https://github.com/grizzly-winter-gear/GWG)
 
 ### Front End
 
@@ -52,9 +54,8 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## Is It Recalled? - 5 day API hackathon project
 
-| [https://is-it-recalled.herokuapp.com/](https://is-it-recalled.herokuapp.com/) | [https://github.com/sjsamphex/IsItRecalled](https://github.com/sjsamphex/IsItRecalled) |
-
-### NERP Stack
+- [https://is-it-recalled.herokuapp.com/](https://is-it-recalled.herokuapp.com/)
+- [https://github.com/sjsamphex/IsItRecalled](https://github.com/sjsamphex/IsItRecalled)
 
 ### API Connections
 
@@ -69,9 +70,5 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## FIRST Robotics Programming
 
-[expand]
-
 - I programmed FIRST Robotics Competition robots with LabVIEW in high school and went to world championships
 - [Home County Newspaper](https://www.gwinnettdailypost.com/archive/tech-team-from-suwanee-high-school-takes-on-the-world-this-weekend/article_592eb681-aca8-59ee-b78f-0b13ec62cbbb.html)
-
-  [/expand]
