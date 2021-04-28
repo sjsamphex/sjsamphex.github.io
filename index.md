@@ -8,6 +8,8 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## Manhattan Trail - Manhattan Food themed Web App of Oregon Trail
 
+![Manhattan Trail]({{ site.url }}/images/ManTrail.png)
+
 - [https://github.com/LuDeRoSa/ManhattanTrail](https://github.com/LuDeRoSa/ManhattanTrail)
 - [https://luderosa.herokuapp.com/home](https://luderosa.herokuapp.com/home)
 - [YouTube Video](https://www.youtube.com/watch?v=aOcCh0BGe-0)
