@@ -55,6 +55,8 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## Is It Recalled? - 5 day API hackathon project
 
+![Is It Recalled]({{ site.url }}/images/recall.png)
+
 - [https://is-it-recalled.herokuapp.com/](https://is-it-recalled.herokuapp.com/)
 - [https://github.com/sjsamphex/IsItRecalled](https://github.com/sjsamphex/IsItRecalled)
 
