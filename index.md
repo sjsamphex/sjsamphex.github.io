@@ -32,6 +32,8 @@ I worked in medical device R&D for three years, and I successfully launched a ca
 
 ## eCommerce Web App - Winter Gear
 
+![Grizzly Winter Gear]({{ site.url }}/images/GWG.png)
+
 - [https://grizzly-winter-gear.herokuapp.com/](https://grizzly-winter-gear.herokuapp.com/)
 - [https://github.com/grizzly-winter-gear/GWG](https://github.com/grizzly-winter-gear/GWG)
 
